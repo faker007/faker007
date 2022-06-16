@@ -1,4 +1,7 @@
 ### 🚀 로켓 불 지피는 개발자 이계진
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffaeker007%2Fhit-counter&count_bg=%23D18AC3&title_bg=%23555555&icon=harbor.svg&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+## Resume
+* [Notion](https://lake-epoch-574.notion.site/6484562aa3394bd3859cc6868913b82a)
 
 <!--
 **faker007/faker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
