@@ -1,7 +1,4 @@
-### 🚀 로켓 불 지피는 개발자 이계진
-
-## Resume
-* [Notion](https://lake-epoch-574.notion.site/4-53d74e5f3ad642258fb4997e7801f441)
+### 🚀 Fake it till you make it 😎
 
 <!--
 **faker007/faker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
