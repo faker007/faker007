@@ -1,4 +1,8 @@
-### 🚀 Fake it till you make it 😎
+# 🚀 Fake it till you make it 😎
+
+# Resume (Ko)
+## 5-yr Software Engineer
+[Resume](https://lake-epoch-574.notion.site/5-Full-Stack-Product-Engineer-13edfa0854738031b0cfc27aa3cd24ca?pvs=74)
 
 <!--
 **faker007/faker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
