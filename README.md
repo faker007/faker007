@@ -1,7 +1,7 @@
-# 🚀 Fake it till you make it 😎
+# Fake it till you make it 😎
 
 # Resume (Ko)
-## 5-yr Software Engineer
+## 6-yr Software Engineer
 [Resume](https://lake-epoch-574.notion.site/5-Full-Stack-Product-Engineer-13edfa0854738031b0cfc27aa3cd24ca?pvs=74)
 
 <!--
